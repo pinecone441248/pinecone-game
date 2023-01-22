@@ -1,0 +1,7 @@
+Debug/
+Release/
+x64/
+ConsoleApplication1/Debug
+ConsoleApplication1/Release
+ConsoleApplication1/x64
+.vs/

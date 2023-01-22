@@ -25,7 +25,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <Library Include="..\..\..\..\Downloads\graphics.lib">
+    <Library Include="graphics.lib">
       <Filter>Resource Files</Filter>
     </Library>
   </ItemGroup>
